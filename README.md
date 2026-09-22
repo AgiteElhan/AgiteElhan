@@ -1,58 +1,73 @@
+<!--
+  🕷️ AGIT ELHAN — GITHUB PROFILE README
+  Spider-Man Inspired Developer Profile
+-->
 
-                    🕷️ AGIT ELHAN
-               FULLSTACK DEVELOPER
+<div align="center">
 
-     "With great power comes great responsibility."
+# 🕷️ AGIT ELHAN
 
-──────────────────────────────────────────────
+### `FULLSTACK DEVELOPER`
 
-🕸️ ABOUT ME
+**I build digital experiences, one line of code at a time.**
 
-👨‍💻 Fullstack Developer
-🇮🇩 Indonesia
-🎓 Informatics Engineering Student
+<br>
 
-I build digital experiences,
-one line of code at a time.
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-E63946?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgiteElhan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-──────────────────────────────────────────────
+</div>
 
-🕷️ MY WEB
+---
 
-Next.js • React • Laravel • PHP
-MySQL • PostgreSQL • REST API
+<div align="center">
 
-──────────────────────────────────────────────
+## 🕸️ `SPIDER-SENSE ACTIVATED`
 
-⚡ CURRENTLY BUILDING
+### `ABOUT ME`
 
-🕸️ Spider-Man Portfolio
-🛒 Niaga Jaya Electronic
-🏥 SIMRS Bunda Sejati
-...
+</div>
 
-──────────────────────────────────────────────
+<table>
+<tr>
+<td width="55%">
 
-🧪 TECH STACK
+👋 **Hello! I'm Agit Elhan.**
 
-[ HTML ] [ CSS ] [ JavaScript ]
-[ React ] [ Next.js ] [ Laravel ]
-[ PHP ] [ MySQL ] [ PostgreSQL ]
+I'm a **Fullstack Developer** and Informatics Engineering student from **Indonesia 🇮🇩**.
 
-──────────────────────────────────────────────
+I enjoy transforming ideas into functional, modern, and meaningful digital experiences.
 
-🕸️ GITHUB
+My main focus is building:
 
-GitHub Stats
-Contribution Graph
-Most Used Languages
+- 🌐 Modern Web Applications
+- 🔌 REST APIs
+- 🏗️ Clean & Maintainable Architecture
+- 🗄️ Database-driven Applications
+- 🎨 Interactive UI/UX
 
-──────────────────────────────────────────────
+> 🕷️ **Great power comes with great responsibility.**
 
-📡 CONNECT
+For me, every line of code is an opportunity to create something useful.
 
-GitHub • LinkedIn • Portfolio
+</td>
 
-──────────────────────────────────────────────
+<td width="45%">
 
-          🕷️ BUILD. LEARN. SWING. REPEAT.
+```text
+        ╱╲
+       ╱  ╲
+      ╱ 🕷️ ╲
+     ╱      ╲
+    ╱────────╲
+   ╱   WEB    ╲
+  ╱────────────╲
+
+   CODE
+     ↓
+   CREATE
+     ↓
+   BUILD
+     ↓
+   IMPROVE
