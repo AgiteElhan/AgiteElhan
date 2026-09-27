@@ -149,17 +149,6 @@ Continuously building practical applications using Laravel, Next.js, React and R
 
 ---
 
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/AgiteElhan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgiteElhan&bg_color=ffffff&color=111827&line=e63946&point=2563eb&area=true&hide_border=true" width="95%" alt="Agit Elhan Activity Graph">
-</a>
-
-</div>
-
----
 
 ## DEVELOPER PHILOSOPHY
 
