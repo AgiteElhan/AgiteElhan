@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/agite-banner.png" width="100%" alt="Agit Elhan - Fullstack Developer">
+<img src="./assets/hero.jpeg" width="100%" alt="Agit Elhan - Fullstack Developer">
 
 </div>
 
