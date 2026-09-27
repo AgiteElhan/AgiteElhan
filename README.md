@@ -193,7 +193,7 @@ Every project is another opportunity to learn, improve and build something bette
 
 [![GitHub](https://img.shields.io/badge/GITHUB-AGITELHAN-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgiteElhan)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-E63946?style=for-the-badge)](https://agitelhan-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-E63946?style=for-the-badge)]([https://agitelhan-portfolio.vercel.app](https://agitelhan-portofolio.vercel.app/))
 
 <br>
 
